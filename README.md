@@ -1,4 +1,4 @@
-# arcade-machine-led
+# arcade-machine
 
 This repository includes the Python Code for a LED stripe inside an arcade machine, the engineering drawings for the 
 casing and the wiring circuit for the raspberry pi.
